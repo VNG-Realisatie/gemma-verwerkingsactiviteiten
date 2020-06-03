@@ -26,7 +26,7 @@ Op dit moment kunnen gemeenten onvoldoende invulling geven aan bovenstaande eise
 * [Definition of Done](https://github.com/VNG-Realisatie/gemma-verwerkingsactiviteiten/blob/master/docs/definition_of_done.md)
 * Hoe u kunt [bijdragen](https://github.com/VNG-Realisatie/Tutorial/blob/master/CONTRIBUTING.md)
 * [Omgangsvormen](https://github.com/VNG-Realisatie/Tutorial/blob/master/CODE_OF_CONDUCT.md)
-* [Ontwerp keuzes](https://github.com/VNG-Realisatie/gemma-verwerkingsactiviteiten/blob/master/docs/design_decisions.md)
+* [Ontwerp keuzes](https://github.com/VNG-Realisatie/gemma-verwerkingsactiviteiten/blob/master/docs/ontwerp_keuzes.md)
 
 ## Bronnen
 * [API strategie en URI strategie](https://geonovum.github.io/KP-APIs/API-strategie-algemeen/)
