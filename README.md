@@ -1,6 +1,9 @@
 # gemma-verwerkingsactiviteiten
 
-GEMMA Verwerkingsactiviteiten is een project waarin het informatiemodel Verwerkingsactiviteiten en bijbehorende APIs gestandaardiseerd worden.
+GEMMA Verwerkingsactiviteiten is een project waarin het gemeentelijk informatiemodel Verwerkingsactiviteiten en bijbehorende API specificaties gestandaardiseerd worden.
+
+## Context 
+Het werkingsgebied voor de ontwikkelde standaarden is: gemeenten en gemeentelijke samenwerkingsverbanden.
 
 ## Context 
 Conform de Algemene Verordening Gegevensbescherming (AVG) moet iedere organisatie of persoon die zich niet incidenteel bezighoudt met het verwerken van persoonsgegevens een een verwerkingsregister (register van de verwerkingsactiviteiten) hebben. In dit register worden metagegevens bijgehouden ten aanzien van specifieke verwerkingsactiviteiten. Voorbeelden hiervan zijn de wettelijke grondslag van de verwerking, het doel van de verwerking en de categorieen van persoonsgegevens die verwerkt worden. Vanuit de AVG zijn een aantal metagegevens verplicht gesteld om bij te houden in het verwerkingsregister. Daarnaast heeft de Informatiebeveiligingsdienst (IBD) voor gemeenten een aantal aanvullende metagegevens gedefinieerd.
