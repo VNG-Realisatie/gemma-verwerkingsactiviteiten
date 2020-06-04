@@ -13,13 +13,16 @@ Producten die samen met gemeenten en leveranciers door VNG Realisatie op het vla
 ## Project documentatie
 * [Productvisie](https://github.com/VNG-Realisatie/gemma-verwerkingsactiviteiten/blob/master/docs/productvision.md)
 * [Definition of Done](https://github.com/VNG-Realisatie/gemma-verwerkingsactiviteiten/blob/master/docs/definition_of_done.md)
-* Hoe u kunt [bijdragen](https://github.com/VNG-Realisatie/Tutorial/blob/master/CONTRIBUTING.md)
-* [Omgangsvormen](https://github.com/VNG-Realisatie/Tutorial/blob/master/CODE_OF_CONDUCT.md)
 * [Ontwerp keuzes](https://github.com/VNG-Realisatie/gemma-verwerkingsactiviteiten/blob/master/docs/ontwerp_keuzes.md)
 
 ## Bronnen
 * [API strategie en URI strategie](https://geonovum.github.io/KP-APIs/API-strategie-algemeen/)
-* [Architectuurdocumentatie](https://www.gemmaonline.nl/images/gemmaonline/e/e5/Gemeentelijk_gegevenslandschap_-_Register_van_verwerkingsactiviteiten.pdf)
+* [Positionering verwerkingsregister in de informatievoorziening van gemeenten](https://www.gemmaonline.nl/images/gemmaonline/e/e5/Gemeentelijk_gegevenslandschap_-_Register_van_verwerkingsactiviteiten.pdf)
+
+## Bijdragen aan het project
+Gemeenten en leveranciers worden aangemoedigd om bij te dragen aan het project. Onderstaande links geven informatie over hoe u uw bijdrage kan leveren.
+* Hoe u kunt [bijdragen](https://github.com/VNG-Realisatie/Tutorial/blob/master/CONTRIBUTING.md)
+* [Omgangsvormen](https://github.com/VNG-Realisatie/Tutorial/blob/master/CODE_OF_CONDUCT.md)
 
 ## Contactpersonen:
 * Product Owner: Arnoud Quanjer, arnoud.quanjer@vng.nl
