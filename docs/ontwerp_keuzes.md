@@ -1,5 +1,5 @@
 # Ontwerp keuzes
-Dit document beschrijft ontwerpkeuzes die gemaakt zijn voor het ontwerpen en specificeren van het informatiemodel en de API's.
+Dit document beschrijft ontwerpkeuzes die gemaakt zijn voor het ontwerpen en specificeren van de verwerkingsactiviteiten API-standaard.
 
 ## Algemene ontwerp keuzes
 
