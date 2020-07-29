@@ -1,2 +1,2 @@
-## Architectuur documentatie verwerkingsactiviteiten
+## Architectuurdocumentatie verwerkingsactiviteiten
 De onderstaande documenten beschrijven ...
