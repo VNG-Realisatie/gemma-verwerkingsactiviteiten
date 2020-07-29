@@ -2,7 +2,7 @@
 
 GEMMA Verwerkingsactiviteiten is een project waarin het gemeentelijk informatiemodel Verwerkingsactiviteiten en bijbehorende API specificaties gestandaardiseerd worden.
 
-## Context 
+## Werkingsgebied 
 Het werkingsgebied voor de ontwikkelde standaarden is: gemeenten en gemeentelijke samenwerkingsverbanden.
 
 ## Context 
@@ -18,6 +18,9 @@ Producten die samen met gemeenten en leveranciers door VNG Realisatie op het vla
 ## Bronnen
 * [API strategie en URI strategie](https://geonovum.github.io/KP-APIs/API-strategie-algemeen/)
 * [Positionering verwerkingsregister in de informatievoorziening van gemeenten](https://www.gemmaonline.nl/images/gemmaonline/e/e5/Gemeentelijk_gegevenslandschap_-_Register_van_verwerkingsactiviteiten.pdf)
+
+## Gerelateerde standaarden
+* [GEMMA Verwerkingenlogging](https://github.com/VNG-Realisatie/gemma-verwerkingenlogging)
 
 ## Bijdragen aan het project
 Gemeenten en leveranciers worden aangemoedigd om bij te dragen aan het project. Onderstaande links geven informatie over hoe u uw bijdrage kan leveren.
